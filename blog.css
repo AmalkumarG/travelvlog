@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+}
+.bg1{
+    background-image: url(./images/home-header-beach-drone-6.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 100%;
+
+}
+.ahov{
+    color: black;
+}
+.ahov:hover{
+    color: blue;
+
+}
+.ahova{
+    color: gray;
+}
+.ahova:hover{
+    color: blue;
+}
+.bgcountry{
+    background-image: url(./images/bgcountry.png);
+    background-size: contain;
+    height: 100px;
+    
+}
+.bgcountry a{
+    text-decoration: none;
+}
+.bgcountry a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.bgcard{
+    background-image: url(./images/card/c1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+}
+.bgcard a{
+    text-decoration: none;
+}
+/* .hovcard:hover div{
+    background-color: black;
+    color: white;
+    opacity: .5;
+} */
+.bgcard3 { color: blue;background-image: url(./images/card/c3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard3:hover { color: white;background-image:linear-gradient(rgba(0, 0, 1, 0.009),rgba(0, 0, 0, 0.804)) ,url(./images/card/c3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hovcard p {color:white;text-shadow: 40px;border-color: black;border: 2px;}
+
+.bgcard2:hover {color: white;background-image:linear-gradient(rgba(0, 0, 1, 0.009),rgba(0, 0, 0, 0.804)) ,url(./images/card/c2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;}
+.bgcard4:hover {color: white;background-image:linear-gradient(rgba(0, 0, 1, 0.009),rgba(0, 0, 0, 0.804)) ,url(./images/card/c4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;}
+.bgcard:hover {color: white;background-image:linear-gradient(rgba(0, 0, 1, 0.009),rgba(0, 0, 0, 0.804)) ,url(./images/card/c1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;}
+.bgcard2{
+    
+    background-image: url(./images/card/c2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+}
+.bgcard3{
+    background-image: url(./images/card/c3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard4{
+    background-image: url(./images/card/c4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.linkcard {
+    text-decoration: none;
+    text-shadow: 20px;
+    border: 10px;
+    
+}
+.linkcard:hover{
+    color: black;
+    
+}
+.bgcard5 { color: blue;background-image: url(./images/card/c5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard6 { color: blue;background-image: url(./images/card/c6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard7 { color: blue;background-image: url(./images/card/c7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard8 { color: blue;background-image: url(./images/card/c8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard9 { color: blue;background-image: url(./images/card/c9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.bgcard10 { color: blue;background-image: url(./images/card/c10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+}
+.bgcard10:hover{
+    transform: scale(1, 1.1);
+    transition-duration: 2s;
+}
+.bgcard9:hover{
+    transform: scale(1, 1.1);
+    transition-duration: 2s;
+}
+.bgcard8:hover{
+    transform: scale(1, 1.1);
+    transition-duration: 2s;
+}
+.bgcard7:hover{
+    transform: scale(1, 1.1);
+    transition-duration: 2s;
+}
+.bgcard6:hover{
+    transform: scale(1, 1.1);
+    transition-duration: 2s;
+}
+.bgcard5:hover{
+    transform: scale(1, 1.1);
+    transition-duration: 2s;
+}
+.flink {
+    color: red;
+
+}
+
+
+.footerlink a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+}
+.footerlink a:hover{
+    color: rgb(225, 110, 110);
+    text-decoration: underline;
+}
